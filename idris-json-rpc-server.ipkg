@@ -1,0 +1,6 @@
+package idris_json_rpc
+
+pkgs = effects, lightyear
+
+main = Server
+executable = json_rpc_server
